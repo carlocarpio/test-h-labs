@@ -1,0 +1,63 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Luka Doncic",
+      "team": "Dallas Mavericks",
+      "jersey": "77",
+      "position": "Guard",
+      "analysis": "All around.",
+      "active": "false"
+    },
+    {
+      "id": 3,
+      "name": "Kobe Bryant",
+      "team": "LA Lakers",
+      "jersey": "24",
+      "position": "Guard",
+      "analysis": "Mamba.",
+      "active": "false"
+    },
+    {
+      "id": 4,
+      "name": "Damian Lillard",
+      "team": "Portland Trail Blazers",
+      "jersey": 0,
+      "position": "Guard",
+      "analysis": "Range.",
+      "active": "true"
+    }
+  ],
+  "teams": [
+    "Atlanta Hawks",
+    "Boston Celtics",
+    "Brooklyn Nets",
+    "Charlotte Bobcats",
+    "Chicago Bulls",
+    "Cleveland Cavaliers",
+    "Dallas Mavericks",
+    "Denver Nuggets",
+    "Detroit Pistons",
+    "Golden State Warriors",
+    "Houston Rockets",
+    "Indiana Pacers",
+    "LA Clippers",
+    "LA Lakers",
+    "Memphis Grizzlies",
+    "Miami Heat",
+    "Milwaukee Bucks",
+    "Minnesota Timberwolves",
+    "New Orleans Hornets",
+    "New York Knicks",
+    "Oklahoma City Thunder",
+    "Orlando Magic",
+    "Philadelphia Sixers",
+    "Phoenix Suns",
+    "Portland Trail Blazers",
+    "Sacramento Kings",
+    "San Antonio Spurs",
+    "Toronto Raptors",
+    "Utah Jazz",
+    "Washington Wizards"
+  ]
+}

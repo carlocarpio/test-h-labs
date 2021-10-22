@@ -1,0 +1,1 @@
+export const playerColumns = ["Jersey", "Name", "Team", "Position", "Analysis", "Injured"]
